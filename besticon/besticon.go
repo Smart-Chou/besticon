@@ -25,9 +25,9 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	_ "github.com/mat/besticon/ico"
+	_ "github.com/Smart-Chou/besticon/ico"
 
-	"github.com/mat/besticon/colorfinder"
+	"github.com/Smart-Chou/besticon/colorfinder"
 
 	"golang.org/x/net/html/charset"
 	"golang.org/x/net/idna"

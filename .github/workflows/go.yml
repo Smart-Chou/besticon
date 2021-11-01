@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Build
-      run: go get github.com/mat/besticon/...
+      run: go get github.com/Smart-Chou/besticon/...
 
     - run: make test
 

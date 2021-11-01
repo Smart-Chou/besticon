@@ -1,4 +1,4 @@
-module github.com/mat/besticon
+module github.com/Smart-Chou/besticon
 
 // +heroku goVersion go1.16
 
